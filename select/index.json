@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハズレジンセイ",
+  "base_artist": "ましろ爻",
+  "createdAt": "2026-04-06T02:18:26.660353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハズレジンセイ",
+      "artist": "ましろ爻",
+      "has_synced": false,
+      "path": "select/pl_01_ハズレジンセイ_ましろ爻.txt"
+    }
+  ]
+}
